@@ -1,0 +1,48 @@
+body {
+    padding: 100px;
+}
+
+.submit-area {
+    margin-top: 50px;
+    border-radius: 10px;
+    padding: 40px;
+    box-shadow: 5px 5px 10px #5e5e5e;
+}
+
+#transection-area {
+    display: none;
+}
+
+.status {
+    margin: 0 20px;
+    padding: 20px;
+    color: white;
+}
+
+.deposit {
+    background-color: slateblue;
+    border-radius: 10px;
+}
+
+.withdraw {
+    background-color: lightsalmon;
+    border-radius: 10px;
+}
+
+.balence {
+    background-color: orange;
+    border-radius: 10px;
+}
+
+.message-area {
+    display: none;
+    margin: 100px 75px;
+    padding: 30px;
+    background-color: #333333;
+    color: white;
+    border-radius: 10px;
+}
+
+footer {
+    margin-top: 85px;
+}
